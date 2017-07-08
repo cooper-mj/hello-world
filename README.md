@@ -1,2 +1,4 @@
 # hello-world
-A place where I can store ideas, resources, or even share and discuss things with others.
+Hi everyone!
+
+A bit about me - I enjoy programming in Python, C++, and Java.
